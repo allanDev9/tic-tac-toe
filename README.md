@@ -15,7 +15,7 @@ pero tiene que ser una versión alta para funcione
 
 ![image](https://github.com/user-attachments/assets/49bdb615-d30c-4159-945e-3e9b9303ec0e)
 
-Aqui pide que se ingrese al directorio del proyecto usando 'cd'
+Aqui pide que se ingrese al directorio del proyecto usando 'cd',
 pide que se ejecute 'npm install o npm i' para la instalacion de dependencias de Node.js
 del proyecto y por ultimo pide ejecutar 'npm run dev' para iniciar un servidor de
 desarrollo del proyecto de Node.js.
